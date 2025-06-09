@@ -1,3 +1,9 @@
+---
+layout: default
+title: AI Provider Setup
+category: guides
+---
+
 # 🔑 Setting Up Your AI Provider (LLM Configuration)
 
 ## What Are API Keys and Why Do You Need Them?

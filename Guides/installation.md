@@ -1,3 +1,9 @@
+---
+layout: default
+title: Installation Guide
+category: guides
+---
+
 # 🚀 Installation Guide - Getting AI BotKit Up and Running
 
 Welcome to AI BotKit! Let's get your intelligent chatbot installed and ready to amaze your website visitors. Think of this as setting up your new digital assistant - we'll make sure everything is perfect! ✨

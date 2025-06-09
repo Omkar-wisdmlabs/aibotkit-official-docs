@@ -1,3 +1,9 @@
+---
+layout: default
+title: Building Your Knowledge Base
+category: guides
+---
+
 # 📚 Building Your Knowledge Base
 
 ## What is a Knowledge Base?

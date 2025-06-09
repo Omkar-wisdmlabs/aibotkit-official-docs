@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creating Your First Chatbot
+category: guides
+---
+
 # 🤖 Creating Your First Chatbot: Complete Step-by-Step Guide
 
 ## What You'll Create

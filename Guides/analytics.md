@@ -1,3 +1,9 @@
+---
+layout: default
+title: Analytics Dashboard
+category: guides
+---
+
 # 📊 Analytics Dashboard - Understanding Your Chatbot's Performance
 
 Track your AI BotKit's performance like a boss! Think of analytics as your chatbot's report card - it shows you exactly how well your AI assistant is doing and where it can improve.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Advanced Settings Guide
+category: explanation
+---
+
 # ⚙️ Advanced Settings Guide
 
 ## What Are Advanced Settings?

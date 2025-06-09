@@ -1,0 +1,62 @@
+# Jekyll Configuration for AI BotKit Documentation
+title: AI BotKit Official Documentation
+description: Complete guide for AI BotKit - Advanced RAG Chatbot for WordPress
+baseurl: "/aibotkit-official-docs"
+url: "https://omkar-wisdmlabs.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Guides"
+    url: "/Guides/"
+  - title: "Explanation"
+    url: "/Explanation/"
+
+# Collections for better organization
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+  explanation:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "Guides"
+      type: "pages"
+    values:
+      layout: "default"
+      category: "guides"
+  - scope:
+      path: "Explanation"
+      type: "pages"
+    values:
+      layout: "default"
+      category: "explanation"
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor 

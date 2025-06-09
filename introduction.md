@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to AI BotKit
+---
+
 # 🤖 Welcome to AI BotKit - Your Intelligent Assistant
 
 ## What is AI BotKit?
